@@ -1,5 +1,2 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/Project_Default.xml
-/profiles_settings.xml
+.idea/
